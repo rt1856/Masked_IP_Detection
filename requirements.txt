@@ -1,0 +1,63 @@
+# Core Dependencies
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Machine Learning
+scikit-learn
+xgboost
+tensorflow
+numpy
+pandas
+imbalanced-learn
+
+# Feature Engineering
+geoip2
+maxminddb
+python-whois
+dnspython
+ipaddress
+ipwhois
+
+# Data Processing
+requests
+beautifulsoup4
+aiohttp
+httpx
+
+# Database & Caching
+redis
+pymongo
+sqlalchemy
+asyncpg
+
+# Monitoring & Logging
+prometheus-client
+python-json-logger
+colorlog
+
+# Security
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Utilities
+python-dotenv
+pyyaml
+schedule
+tqdm
+click
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# Dashboard
+jinja2
+plotly
+dash
+
+# API Documentation
+python-multipart
